@@ -48,7 +48,7 @@
     "test:e2e:open": "start-test 3000 cypress:open"
   },
   "dependencies": {
-    "@floating-ui/react-dom": "^0.6.3",
+    "@floating-ui/react-dom": "^0.7.2",
     "@floating-ui/react-dom-interactions": "^0.4.0",
     "classnames": "^2.3.1",
     "commitizen": "^4.2.4",
